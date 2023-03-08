@@ -2,20 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
-/* @font-face {
+@font-face {
   font-family: "Sohne-Bold";
-  src: url("./assets/fonts/Söhne-Dreiviertelfett.otf");
-} */
+  src: url ("./assets/fonts/Söhne-Dreiviertelfett.otf");
+}
 
-/* @font-face {
+@font-face {
   font-family: "Sohne-SemiBold";
-  src: url("./assets/fonts/Söhne-Halbfett.otf");
-} */
+  src: url ("./assets/fonts/Söhne-Halbfett.otf");
+}
 
-/* @font-face {
+@font-face {
   font-family: "Sohne-Regular";
-  src: url("./assets/fonts/Söhne-Kräftig.otf");
-} */
+  src: url ("./assets/fonts/Söhne-Kräftig.otf");
+}
 
 @font-face {
   font-family: "Sohne-Light";
