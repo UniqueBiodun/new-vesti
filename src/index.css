@@ -4,20 +4,20 @@
 
 @font-face {
   font-family: "Sohne-Bold";
-  src: url("./fonts/Söhne-Dreiviertelfett.otf");
+  src: url("../public/fonts/Söhne-Dreiviertelfett.otf");
 }
 
 @font-face {
   font-family: "Sohne-SemiBold";
-  src: url("./fonts/Söhne-Halbfett.otf");
+  src: url("../public/fonts/Söhne-Halbfett.otf");
 }
 
 @font-face {
   font-family: "Sohne-Regular";
-  src: url("./fonts/Söhne-Kräftig.otf");
+  src: url("../public/fonts/Söhne-Kräftig.otf");
 }
 
 @font-face {
   font-family: "Sohne-Light";
-  src: url("./fonts/Söhne-Leicht.otf");
+  src: url("../public/fonts/Söhne-Leicht.otf");
 }
