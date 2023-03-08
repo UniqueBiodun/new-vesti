@@ -1,13 +1,23 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Sohne-Bold";
+  src: url("./assets/fonts/Söhne-Dreiviertelfett.otf");
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: "Sohne-SemiBold";
+  src: url("./assets/fonts/Söhne-Halbfett.otf");
+}
+
+@font-face {
+  font-family: "Sohne-Regular";
+  src: url("./assets/fonts/Söhne-Kräftig.otf");
+}
+
+@font-face {
+  font-family: "Sohne-Light";
+  src: url("./assets/fonts/Söhne-Leicht.otf");
 }
