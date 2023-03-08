@@ -2,7 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
+/* @font-face {
+  font-family: sans;
+  src: url("./assets/fonts/Söhne-Dreiviertelfett.otf");
+} */
+
+/* @font-face {
   font-family: "Sohne-Bold";
   src: url("./assets/fonts/Söhne-Dreiviertelfett.otf");
 }
@@ -20,4 +25,4 @@
 @font-face {
   font-family: "Sohne-Light";
   src: url("./assets/fonts/Söhne-Leicht.otf");
-}
+} */
